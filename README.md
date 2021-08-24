@@ -2,7 +2,7 @@
 
 - Problem 1: Pairs in an array with a given sum.
 - Problem 2: Parsing for Polish notation mathematical expressions.
-- Problem 3: RESTful API for the Polish notation parser.  
+- Problem 3: RESTful API for the Polish notation parser implemented with Spring Boot.  
 
 ***
 
