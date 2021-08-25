@@ -5,6 +5,8 @@
 - Problem 3: RESTful API for the Polish notation parser implemented with Spring Boot.  
 
 ***
+The project can be built with maven.
+
 
 JUnit tests and input files provided for problems 1 & 2.
 
